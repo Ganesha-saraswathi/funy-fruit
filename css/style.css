@@ -1,0 +1,44 @@
+.t{
+    width:100%;
+}
+
+.t-r{
+    text-align: center;
+    width: 25%;
+    background-color: purple;
+    border-radius: 10px;
+    height: 3em;
+}
+
+.t-r:hover{
+    background-color: green;
+}
+
+.a{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.a:hover{
+    color: yellow;
+}
+
+.img-banner-1{
+    height: 90vmin;
+    width: 100%;
+}
+
+.ganesha{
+    text-align: center;
+    color: snow;
+    height: 3em;
+    background-color: purple;
+}
+.zoom{
+    transition:transform 1s;
+}
+.zoom:hover{
+    transform: scale(2);
+}
